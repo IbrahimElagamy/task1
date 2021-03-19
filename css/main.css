@@ -1,0 +1,15 @@
+.display{
+    display: block;
+}
+#showModal{
+    margin-top: 10px !important;
+}
+#noTask{
+    margin-top: 2% !important;
+}
+.btn{
+    padding: 2px;
+}
+#exampleModal{
+    background-color: rgb(31, 30, 30);
+}
